@@ -1,0 +1,29 @@
+Package: farsdata
+Title: Package for assignment Week 4 Builing R packages
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "David",
+           family = "Dlhy",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This R package is submitted as the Week 4 final assignment for the “Building R Packages” course on Coursera, as part of the Johns Hopkins University “Mastering Software Development in R” specialization.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+Imports: 
+    dplyr,
+    magrittr,
+    maps,
+    readr,
+    tidyr,
+    lubridate,
+    tibble,
+    mapdata
