@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 <img src="inst/logo/coursera.jpg" width="120"/> <img src="inst/logo/jhu_v3.jpeg" width="120"/> 
+[![Travis build status](https://travis-ci.com/Daviddlhy/farsdata.svg?branch=master)](https://travis-ci.com/Daviddlhy/farsdata)
 <!-- badges: end -->
 
 This R package is submitted as the Week 4 final assignment for the "[Building R Packages](https://www.coursera.org/learn/r-packages)" course on Coursera, as part of the Johns Hopkins University "[Mastering Software Development in R](https://www.coursera.org/specializations/r#about)" specialization.
